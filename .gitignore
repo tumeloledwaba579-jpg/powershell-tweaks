@@ -1,0 +1,24 @@
+# Logs
+*.log
+logs/
+
+# PowerShell
+*.ps1xml
+*.psc1
+*.psd1
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Windows specific
+*.bak
+*.tmp
